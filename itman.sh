@@ -32,7 +32,7 @@ elif [ $1 == "--update" ] || [ $1 == "-upd" ]
 then
 yum install update
 yum install wget
-wget http://46.20.154.164/bashlib/itman.sh
+wget https://raw.githubusercontent.com/TheKuru/Scripts/master/itman.sh
 cat itman.sh > /script/itman.sh
 sudo rm -R itman.sh
 
