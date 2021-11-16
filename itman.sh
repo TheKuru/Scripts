@@ -35,7 +35,7 @@ elif [ $1 == "--update" ] || [ $1 == "-upd" ]
 then
 yum install update
 yum install wget
-wget https://raw.githubusercontent.com/TheKuru/Scripts/master/itman.sh
+wget https://raw.githubusercontent.com/TheKuru/Scripts/master/install.sh
 cat itman.sh > /script/itman.sh
 sudo rm -R itman.sh
 
@@ -83,7 +83,7 @@ fi
 
 ########################################################################################################################
 ##  Windows : git clone https://github.com/TheKuru/Scripts.git                                                        ##
-##                                                                                                                    ##
+##  wget https://raw.githubusercontent.com/TheKuru/Scripts/master/install.sh && bash install.sh                       ##
 ##                                                                                                                    ##
 ##                                                                                                                    ##
 ########################################################################################################################
