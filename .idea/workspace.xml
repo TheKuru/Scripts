@@ -11,7 +11,11 @@
     <execution />
   </component>
   <component name="Git.Settings">
+<<<<<<< HEAD
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+=======
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+>>>>>>> 823f93a (Initial commit)
   </component>
   <component name="ProjectId" id="210GhUUR92nnQwdv20wPRPlDPom" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -23,7 +27,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+<<<<<<< HEAD
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$" />
+>>>>>>> 823f93a (Initial commit)
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -34,7 +44,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1637070710654</updated>
+<<<<<<< HEAD
       <workItem from="1637070711916" duration="88000" />
+=======
+      <workItem from="1637070711916" duration="720000" />
+>>>>>>> 823f93a (Initial commit)
     </task>
     <servers />
   </component>
