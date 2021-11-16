@@ -3,7 +3,6 @@
 #Tarih      : 15.11.2021
 #Konu       : Bash Script İşletim Sistemi Belirleme
 #Versiyon   : 1.0.12
-#Github     : https://gist.githubusercontent.com/TheKuru/9ffbc17bbd070fae22456d8b1fcbae8d/raw/21cd71eea8a51ab1f6cc462a0e53e4cd3ace28ee/itman.sh
 
 if [ $1 == "--help" ] || [ $1 == "-h" ]
 then
