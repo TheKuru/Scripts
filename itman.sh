@@ -2,7 +2,7 @@
 #Hazırlayan : Uğur KURU
 #Tarih      : 15.11.2021
 #Konu       : Bash Script İşletim Sistemi Belirleme
-#Versiyon   : 1.0.12
+#Versiyon   : 1.0.1
 
 if [ $1 == "--help" ] || [ $1 == "-h" ]
 then
