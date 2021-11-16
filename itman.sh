@@ -1,8 +1,11 @@
 #!/bin/bash
-#Hazırlayan : Uğur KURU
-#Tarih      : 15.11.2021
-#Konu       : Bash Script İşletim Sistemi Belirleme
-#Versiyon   : 1.0.1
+########################################################################################################################
+## Hazırlayan : Uğur KURU                                                                                             ##
+## Tarih      : 15.11.2021                                                                                            ##
+## Konu       : Bash Script İşletim Sistemi Belirleme                                                                 ##
+## Versiyon   : 1.0.1                                                                                                 ##
+########################################################################################################################
+
 
 if [ $1 == "--help" ] || [ $1 == "-h" ]
 then
@@ -36,7 +39,7 @@ wget https://raw.githubusercontent.com/TheKuru/Scripts/master/itman.sh
 cat itman.sh > /script/itman.sh
 sudo rm -R itman.sh
 
-elif [ $1 == "--centos" ] || [ $1 == "-cts" ]
+elif [ $1 == "--windows" ] || [ $1 == "-win" ]
 then
      echo "Contos Kurulumu"
 
@@ -75,3 +78,12 @@ else
      echo "Hata! : Script parametreleri okunamadı."
 exit 1
 fi
+
+
+
+########################################################################################################################
+##  Windows : git clone https://github.com/TheKuru/Scripts.git                                                        ##
+##                                                                                                                    ##
+##                                                                                                                    ##
+##                                                                                                                    ##
+########################################################################################################################
